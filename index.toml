@@ -46,6 +46,11 @@ hash = "c8373ca4db695060dc45d908d35d6394d3778b68181e2baf6397b44dd776b42c"
 metafile = true
 
 [[files]]
+file = "mods/curios-continuation.pw.toml"
+hash = "237a52e17edfb00eb82851640f45fadfa4faefd99c3dec98628f013fe41a1dc5"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-torches.pw.toml"
 hash = "2ff61f12752e289ba99d7786ede62d3fd5e528665222efef2a44b741d7ee651c"
 metafile = true
