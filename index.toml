@@ -36,11 +36,6 @@ hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "602e698c60890669daebd3373715c093d8af9e2c090978b1064db7b8076191ec"
-metafile = true
-
-[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "c8373ca4db695060dc45d908d35d6394d3778b68181e2baf6397b44dd776b42c"
 metafile = true
