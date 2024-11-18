@@ -1,0 +1,13 @@
+name = "WarJayPack"
+author = "doublej472"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a78f009cb32930a70a343d25454a970f54268f956935d7e7280a7816e7765437"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.79"

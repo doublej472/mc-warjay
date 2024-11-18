@@ -1,0 +1,13 @@
+name = "Rustic Delight"
+filename = "rusticdelight-neoforge-1.21-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/z9efK6Jg/rusticdelight-neoforge-1.21-1.3.0.jar"
+hash-format = "sha512"
+hash = "fef563f887e9be02cd454a82704b05feb4ccf1a9de9c5989adadee7bcfff353dea270c974b3c863d3493ec4d0a720d525355934ecfbd363350a47bd646db4769"
+
+[update]
+[update.modrinth]
+mod-id = "foa4fGIH"
+version = "z9efK6Jg"
