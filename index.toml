@@ -46,11 +46,6 @@ hash = "c8373ca4db695060dc45d908d35d6394d3778b68181e2baf6397b44dd776b42c"
 metafile = true
 
 [[files]]
-file = "mods/curios-continuation.pw.toml"
-hash = "237a52e17edfb00eb82851640f45fadfa4faefd99c3dec98628f013fe41a1dc5"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-torches.pw.toml"
 hash = "2ff61f12752e289ba99d7786ede62d3fd5e528665222efef2a44b741d7ee651c"
 metafile = true
@@ -161,18 +156,8 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
-file = "mods/occultism.pw.toml"
-hash = "9119b3aedb0b03804760560d86924837815c6e51b65d1980281f185be66fbcac"
-metafile = true
-
-[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "71c54d5bb5a62dc561b6bd20027b09f860d369f358012f619b2ad4950e9ae159"
-metafile = true
-
-[[files]]
-file = "mods/smartbrainlib.pw.toml"
-hash = "057699109c77f19d6df77088998f98a9a694fdb67c5596f250a28ee829729786"
 metafile = true
 
 [[files]]
