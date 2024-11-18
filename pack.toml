@@ -1,12 +1,12 @@
 name = "WarJayPack"
 author = "doublej472"
-version = "1.3.0"
+version = "1.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "716b5c4c74365cd6b16af88b0cd5868471489b51d141bcfeaee900904d3d5e64"
+hash = "584e19c3016e8860637d4773035179d33c3420ed8ec9281389f0af8c52f9fa49"
 
 [versions]
 minecraft = "1.21.1"

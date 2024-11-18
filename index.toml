@@ -101,28 +101,13 @@ hash = "c456af7d213375294457c3638f249da1f347fc133f513ccdba1e38575af54145"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-additions.pw.toml"
-hash = "ff0e23bf065eb83f1d209ac783b17d10a81afda08c96354bb48853595d90fe94"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "5aa73a132621743cd1dd11347e45eac66e389effaa1d20d04cb7259c7260e633"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.pw.toml"
-hash = "4a9969382841492c551fa12ef6cdadae9a5fd1df77147614f915f9684ecc11d7"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.pw.toml"
-hash = "e711ae9ea2366056fecbab1ed7aff3ed61d719712d86b56c825e04b9f05449e7"
-metafile = true
-
-[[files]]
 file = "mods/mmlib.pw.toml"
 hash = "59f033615895cd019f9fb168fa93590422c5050274630a8faec46460979a5156"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "61836654e4da58df51591b3aef29c5c1c99562b38ebccf2984edda89da4abea7"
 metafile = true
 
 [[files]]
