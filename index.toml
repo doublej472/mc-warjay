@@ -6,11 +6,6 @@ hash = "c25034b269290202a75c4aa936933a12fa2caee68700b0820918d4dba1182adf"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -167,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "63b74645d428f53a42edbab473ef56493034929f302516c957af685711992540"
+hash = "02fd3db2b3b3bc36f0bb0d30ebe79ab907197c41ab14f2cba2acbe772e027f92"
 metafile = true
 
 [[files]]
